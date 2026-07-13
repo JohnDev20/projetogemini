@@ -16,8 +16,8 @@ dependencies:
   get_it: ^7.6.0
 
   # Banco de Dados Local (Isar)
-  isar: ^4.0.0
-  isar_flutter_libs: ^4.0.0
+  isar: any
+  isar_flutter_libs: any
   path_provider: ^2.1.1
 
   # Interface e Utilitários
