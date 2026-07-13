@@ -47,7 +47,7 @@ workflows:
       events:
         - push
       branch_patterns:
-        - name: main
+        - main
     scripts:
       - name: Instalar dependências do Flutter
         script: |
